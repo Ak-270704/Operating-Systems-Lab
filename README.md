@@ -20,3 +20,5 @@ EXP 07: Building a C/C++ project using Makefiles.
 EXP 08: Basic Programs in Shell Scripting.
 
 EXP 09: To study and implement the read(), write(), and fork() system calls in Unix/Linux operating systems.
+
+EXP 10: Write programs to create an Orphan Process and a Zombie Process
