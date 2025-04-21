@@ -24,3 +24,5 @@ EXP 09: To study and implement the read(), write(), and fork() system calls in U
 EXP 10: Write programs to create an Orphan Process and a Zombie Process
 
 EXP 11: Write a program to Create a thread in Linux OS.
+
+EXP 12: Program for Process Synchronization using Mutex Lock.
